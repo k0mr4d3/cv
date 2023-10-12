@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Tran Hoang Anh"
+resume_name:                    "Trần Hoàng Anh"
 # resume_title:                   "VP of Global Communications"
 
 # used for the contact button in _layouts/resume.html
@@ -18,7 +18,7 @@ resume_contact_email:           "k0mr4d352@yandex.ru"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+84-973271203"
-resume_contact_address:         "Tay Ho, Hanoi, Vietnam"
+resume_contact_address:         "Tây Hồ, Hà Nội"
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
